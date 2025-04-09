@@ -77,7 +77,7 @@ export const dataAboutPage = [
     {
         id: 3,
         title: "Web Developer & Diseño Grafico",
-        subtitle: "Mundo Ciudadanias",
+        subtitle: "Mundo Ciudadanías",
         description: "Encargado de crear la web institucional de la marca, como el logo y la piezas graficas , internas y externas ",
         date: "Mayo 2020",
     },
@@ -85,14 +85,14 @@ export const dataAboutPage = [
         id: 4,
         title: "Practica  en Santex Academy",
         subtitle: "Santex Academy",
-        description: "Desarrollo de una web instucional para una municipalidad en el framework Angular.",
+        description: "Desarrollo de una web institucional para una municipalidad en el framework Angular.",
         date: "Agos 2021",
     },
     {
         id:5,
         title: "Freelance",
         subtitle: "Varios.",
-        description: "trabajos de diseño grafico , diseño multimedial, con la Suite de Adobe y  webs particulares, tanto en React como tambien en Js ",
+        description: "trabajos de diseño grafico , diseño multimedia, con la Suite de Adobe y  webs particulares, tanto en React como también en Js ",
         date: "Ene 2025",
     },
 ]
@@ -145,18 +145,19 @@ export const serviceData = [
 export const dataPortfolio = [
     {
         id: 1,
-        title: "Mundo Cafe",
+        title: "Mundo Café",
         image: "/image-1.jpg",
        
         urlDemo: "https://mundo-cafe-msqh.vercel.app/",
     },
     {
         id: 2,
-        title: "Cafe Martinez",
+        title: "Café Martínez",
         image: "/image-2.jpg",
        
         urlDemo: "https://cafeteriamartinez.vercel.app/",
     
     }
 ];
+
 <h1>Me dedico al desarrollo web frontend y creo sitios y aplicaciones que no solo se ven bien, sino que también funcionan de maravilla. Trabajo con tecnologías como HTML, CSS y JavaScript para diseñar interfaces que sean fáciles de usar, se adapten a cualquier dispositivo y capturen la esencia de la marca de cada cliente. Mi objetivo es ayudar a mejorar su imagen online y destacar en el mundo digital.</h1>

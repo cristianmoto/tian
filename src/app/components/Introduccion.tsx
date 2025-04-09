@@ -28,7 +28,7 @@ const Introduccion = () => {
                         className=" block font-bold text-secondary"
                         />
                      </h1>
-                    <p className="mx-auto mb-2 text-xl md:mx-0 md:mb-8 text-justify">Soy desarrollador frontend y diseñador web, me apasiona crear experiencias visuales y funcionales que brillen. Transformo ideas en interfaces intuitivas y atractivas, cuidando hasta el último detalle.</p>
+                    <p className="mx-auto mb-2 text-xl md:mx-0 md:mb-8 text-center">Soy desarrollador frontend y diseñador web, me apasiona crear experiencias visuales y funcionales que brillen. Transformo ideas en interfaces intuitivas y atractivas, cuidando hasta el último detalle.</p>
                 </div>
                 <Image src="/home-4.png" priority width={600} height={600} alt="profile" />
             </div>
